@@ -20,6 +20,7 @@ GEM
       syntax (>= 1.0.0)
     mysqlplus (0.1.2)
     posix-spawn (0.3.6)
+    rdiscount (1.6.8)
     sequel (3.42.0)
     syntax (1.0.0)
 
@@ -29,4 +30,5 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 0.11.2)
   mysqlplus (~> 0.1.2)
+  rdiscount (~> 1.6.8)
   sequel (~> 3.42.0)
