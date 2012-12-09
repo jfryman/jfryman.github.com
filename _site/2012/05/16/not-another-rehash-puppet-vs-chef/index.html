@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="author" content="Your Name" />
+    <title>Yet another rehash: Puppet vs. Chef</title>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">Yet another rehash: Puppet vs. Chef</a></h1>
+    </header>
+    <section>
+      <div class="content">
+  <div id="post">
+    <h1></h1>
+    <p>Recently, a client approached me asking me the question "I'm about to deploy Configuration Management. Which tool should I use, Puppet or Chef?". In an effort to provide them with as much non-biased data as possible, I responded in turn with the following email:</p>
+
+<p><em>Full disclosure: I have in the past worked directly for Puppet Labs, and still maintain a close relationship with them (they are another one of our customers). As a firm, we are versed in all of the major Configuration Management (CM) solutions that are big in the UNIX world today (chef, cfengine, and puppet).</em></p>
+
+<p>As far as languages go or choices, the decision to go Puppet or Chef is almost fully a syntactic choice. There is certainly plenty of debate in the community as which is better, but the feature set is essentially identical. That is, both of these systems are designed to enforce a given state on a machine. Puppet has been targeted System Administrators that often do not have a development background or may have some scripting knowledge. The language itself can be extended with Ruby, but these are advanced concepts that are abstracted for the most part. This gains you some interesting artifacts (as you mentioned, the declarative nature of puppet which prevents multiple definitions of resources, but also things lost like language loops that must be simulated in other interesting ways).</p>
+
+<p>Chef, conversely, exposes all of these language constructs via ruby. What is lost here is having a declarative nature, and resources have the ability to be redeclared in separate classes. However, if you know ruby, you automatically gain all the power of the underlying language which makes some very complex concepts able to be defined in very concise ways (very 'ruby-like', if you will).</p>
+
+<p>This doesn't mean that one language has 'more power' than the other, it just means that the patterns used are slightly different to accomplish the same things. The end state is the same.</p>
+
+<p>Neither language is really built for deploying new code versions out of the box. Chef and Puppet are meant to declare a system state, and so these tools are often paired with an existing deployment tool (such as Vlad, Capistrano, or Whiskey Disk) in order to separate responsibility between what the system should look like (CM solution) and how the Application should be deployed (Vlad, Capistrano, wd). To illustrate this point, we have built integration layers between whiskey_disk and puppet and used this in the past (<a href="http://github.com/jfryman/puppet-whiskey_disk">http://github.com/jfryman/puppet-whiskey_disk</a>). <em>TECHNICAL NOTE: There is a resource in Chef called 'deploy' that mimics this functionality, but it needs work. I didn't want to dive into a discussion with a potential client on nuances, but rather to discuss Configuration Management vs App Deployment. </em></p>
+
+<p>Both solutions certainly scale as well. Puppet has installations upwards of 250k nodes, Chef has installations in the 100k+ nodes. Scale is certainly not an issue here. What is more important with both solutions is a standard used to build out modules that allow this type of scale. What we do when we either help a company optimize an existing solution or begin new, we will setup a framework that will allow you to scale and teach you the concepts necessary to help you scale to these large numbers. When done properly, 10 systems managed with a CM solution is the same as 100k systems (with only minor considerations to timing, but overall management and development is identical)</p>
+
+<p>When we recommend a new solution, we really ask about what the workflow of the end state will be. As a general rule, we start with these premises:</p>
+
+<ul>
+    <li>If you have a large number or plan to have a dedicated system administration staff, Puppet tends to stick better for the reasons I detailed above. Puppet gets going quickly, and complexity of the solution grows as the sysadmin becomes familiar with CM concepts. Likewise, the declarative nature of the language forces a system administrator to be 'strict' with how they code.</li>
+    <li>If you have development staff that help with deployments or system administration staff that are familiar with ruby, then chef is often a good choice. Developers who might be working in-hand with operations from time to time can usually use the same language that they are developing in, so there is less time spent learning both CM concepts and the new language, you just spend time learning CM concepts. The lack of declarative nature allows a little more flexibility with language constructs.</li>
+</ul>
+
+
+<p>There are certainly subtle nuances, but none of these are insurmountable if you choose Puppet in an environment where Chef <em>might</em> make more sense or vice-versa. I hope these points help - ultimately there isn't a right or wrong answer, this is one of the 'what makes sense for me' decisions. I'm more than happy to have a more detailed conversation about your environment to help you figure out which makes sense for you.</p>
+
+  </div>
+</div>
+
+    </section>
+  </body>
+</html>

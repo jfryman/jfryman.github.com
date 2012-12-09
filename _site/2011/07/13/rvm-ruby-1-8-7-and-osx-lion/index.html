@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="author" content="Your Name" />
+    <title>RVM, Ruby 1.8.7 and OSX Lion</title>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">RVM, Ruby 1.8.7 and OSX Lion</a></h1>
+    </header>
+    <section>
+      <div class="content">
+  <div id="post">
+    <h1></h1>
+    <p>I've been meaning to get on the RVM bandwagon for a while now, and some conversation in the local IRC channel prompted me to take the plunge today.</p>
+
+<p>However, being on OSX Lion, I find myself running into all sorts of odd issues. Here's today's fun one...<!--more--></p>
+
+<blockquote>
+<pre>➜  ~  gem install sinatra
+ruby-1.8.7-p352/lib/ruby/1.8/timeout.rb:60: [BUG] Segmentation fault
+ruby 1.8.7 (2011-06-30 patchlevel 352) [i686-darwin11.0.0]</pre>
+</blockquote>
+
+
+<p>Gross! What do you do about that? Well, recompile Ruby, of course!</p>
+
+<p>Uninstall Ruby 1.8.7 (but not all of your gems and other data) using the following command, set some environment variables, and reinstall.</p>
+
+<blockquote>rvm uninstall 1.8.7 &amp;&amp; CC=/usr/bin/gcc-4.2 rvm install 1.8.7</blockquote>
+
+
+<p>No more errors! Why on earth would something like this happen? Turns out, LLVM is now the default compiler in OSX Lion. This does not bode well for our 1.8.7 Ruby friends yet. You'll see similar errors when trying to install Ruby Enterprise Edition as well.</p>
+
+<pre></pre>
+
+
+<p>&nbsp;</p>
+
+  </div>
+</div>
+
+    </section>
+  </body>
+</html>
