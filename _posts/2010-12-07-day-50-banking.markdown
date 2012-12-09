@@ -1,0 +1,43 @@
+---
+layout: post
+title: !binary |-
+  RGF5IDUwOiBCYW5raW5n
+wordpress_id: 393
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9Mzkz
+date: 2010-12-07 07:32:37.000000000 -06:00
+---
+I've learned a lot about the banking system here in the Philippines in the last few days. I'm in the process of trying to get things squared away for my wife to come out and be able to do a few things. Typically, I just had money to one of the office folks here and they run off and take care of things. I want to go to Tagaytay: done. All I do is say the word - things are arranged, I show up, have a good time, tip my driver, and badda-bing, badda-boom. It's done. I'm really trying to be a little independent here, and learn more about how things work - so I've asked to take the drivers seat planning and executing the trip that my wife will have over Christmas.
+
+<!--more-->First off is banking - I'm in the process of making some hotel arrangements <em>somewhere</em> (can't ruin the surprise - although it's not like my wife knows any of these places anyway), and they want payment. Okay, easy enough. Well, they want a direct deposit to their bank account. Interesting - I guess a credit card is out of the question. No worries, so I head downstairs - thinking all I need to do is open a bank account somewhere local, and then transfer the money. Logical, right?
+
+The bank where I need to put money is at a place called MetroBank, and the particular bank that is in the office building is known as BDO. Walk up to the counter, ask to open an account. Well, first off, I have two options. Regular ATM account, and PassBook accounts. What on earth is a passbook? I asked that to the teller, and she just started laughing at me. I'm assuming it's a cheque book, but I don't know. Next step: need a 1x1 photo. Okay... where do I get that. Interestingly enough, there is a photo shop <strong>right next door</strong> (convenient, no?). Take my mug shot, and grab a photo.
+
+Head back to BDO, start to open the account, and I asked the question.
+<blockquote><strong>Me: </strong>Once I open this account, I can transfer money to another bank.
+<strong>Teller: </strong>Does the account you wish to transfer money to also with BDO?
+<strong>Me: </strong>No ma'am. The account is with MetroBank
+<strong>Teller: </strong>Oh sir, I'm sorry. You must actually go to MetroBank and give them the money.</blockquote>
+Really?! First off, who says "wish" in a sentience when it has nothing to do with magic? Secondly, I have to physically go to MetroBank and give them money? Simple in principle, but let's extrapolate for a second. There are <em>hundreds</em> of banks in the Philippines. If I needed to give money to someone via this method, I could be required to go to any one of these banks to actually pay someone. I didn't quite realize I was thinking out loud, and the teller simply responded "Yes Sir" to my thoughts.
+
+I can't recall if I asked "who says wish" out loud. Ugh.
+
+Fine, I'll go to MetroBank tomorrow and deposit some money, because I also found out that bankers hours are very much in play in the Philippines. Open at 10AM, break for 1.5 hours at 11AM for Lunch, close at 3PM. This is crazy. Now I'm thinking there has to be a better way to do this. Maybe there is an online option to transfer money from my credit or debit card to this person.
+
+Enter BancNet! An interbank gateway, where you can leverage banks and/or ATMs to transfer money to people, pay your bills, or whatever. The cool thing is that you could also do the same via your phone. With SMART communications, you have SMART money, and Globe has GCASH - you can either preload this stuff in, or link to your account and simply text people money. Cool! Why didn't the teller share this information with me.
+
+This is where it gets sticky. There are actually two major competing interbank gateways in the Philippines. BancNet and MegaLink. Each has their own consortium of banks, and there is zero overlap. Got that? Back to our story: BDO is part of MegaLink, and MetroBank is part of BancNet. If I wanted to transfer money still from BDO to MetroBank, or members of competing intrabank networks, I'd need accounts at both banks. If I wanted to move money between the accounts, I would have to physically go to an ATM or bank, withdraw money, physically go to my other bank, deposit money, and then I can move funds around.
+
+It's the same way with competing cell phone carriers. If I want to pay someone (because mobile phone payments are as hot here as PayPal is in the US), then I have to be on the same carrier. Smart Money with SMART, and GCASH with Globe. I can't send payments from Globe to Smart. My option again - have two SIM Cards. One for Globe/one for Smart.
+
+When I began polling my associates on this topic, they just kinda smiled and said that is how it is. I asked how they deal with it, and their answer was 100% without a doubt one of these.
+<ul>
+	<li>My wife takes care of that.</li>
+	<li>My helper takes care of that.</li>
+	<li>My mother takes care of that.</li>
+</ul>
+Never "I" take care of this, and I hate it, and I want it to change. In fact, someone else manages that, so I don't have to worry about it. Instead of fixing the problem, it's abstracted to such an extent that entire service industries continue to thrive on wading through the minutiae of it all.
+
+What did I do (or rather, what am I going to do?). It turns out that a new assistant was hired at my office - her job title: Expat Assistant Services. Her entire job is to help me and the other Expats in the Philippines wade through the mess. I simply walked up to her, asked her to take this money that I need for deposit and go to the bank and deposit it into the account. I can't change, nor can I judge the system here. It is what it is - all I know is that my window of opportunity of 1 hour in the morning and 2.5 hours in the afternoon is not enough for me to go to the bank and make a deposit. Only God knows how bad that line is going to be. I'd put money on the fact that it's a wasted day for that one task. Troves of helpers in line waiting to deposit money for their employers.
+
+There are many more tangential items on this topic, but that's enough for today.

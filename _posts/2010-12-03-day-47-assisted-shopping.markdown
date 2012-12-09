@@ -1,0 +1,33 @@
+---
+layout: post
+title: !binary |-
+  RGF5IDQ3OiBBc3Npc3RlZCBTaG9wcGluZw==
+wordpress_id: 374
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9Mzc0
+date: 2010-12-03 18:23:19.000000000 -06:00
+---
+<em>Oh, wonderful sleep.
+Why must you avoid my call?
+</em><em> I could use a nap.</em>
+
+I have to easily admit - jetlag is one of the worst feelings that I have. It's just horrible. I've gone into great detail about this in the past, so in lieu of rehashing - let's just say that it still sucks. Okay, moving on.
+
+I'm moved in! It happened! At 4:30PM yesterday, I moved my luggage into my apartment in Makati. I unwrapped a series of appliances that were encased in plastic from the newness, I hastily threw around my clothes from my bags, and I sat down on my couch. However, I can't actually live here yet. I have a bed, but I do not have sheets or blankets. I have a bathroom but I don't have towels. I have a stove, but I don't have gas. What else to do but to go pick up some stuff.
+
+<!--more-->I didn't have much time - I had a company karaoke event to get to (started at 6PM), so I had 1.5 hours to figure out my gameplan to pick up the essentials. This was a bit of a bummer, as I spent a considerable amount of time putting together a list of things I need in the apartment (barebones, but needed). I headed out to Shoe Mart (SM) to get towels, blankets, sheets, etc.
+
+What I found out is that it must be painfully obvious that I have no idea what I'm doing. I walked in, stumbled to the home furnishing area, and was greeted by a filipino woman (filipina). First thing: Sheets. Okay - so we went to get sheets. Crappy sheets. Nope - I need okay sheets. Not great, but not something that is going to fall apart when I wash them first. Got sheets. Now, comforter and blanket. Now we're making design decisions. I tell the woman that I'm trying to keep with the theme of the house (industrial black and white). She recommends a few options to me, and then viola - we find a descent comforter. She recommends to me some pilow cases, and so I'm set.
+
+Then, this is where it gets interesting. The next words out of my mouth were: "What else do I need".
+
+Lightbulb! This guy is dumb! Attack.
+
+And then the horde descended. Four women out of nowhere come up and start recommending to me the things that I need for my house. Towels, floor mats, laundry hampers, soap holders - all things that I do need, but didn't think of. I suddenly realized that I had a personal shopping service. These women were working to accessorize my house based on a binary tree analysis of things that I needed or not. I needed towels, so naturally I would need a floor mat, and it would have to match with the <em>n</em> things that are already in my cart, as well as the description (albeit vague) that I have given of my apartment. It's amazing to watch four filipinas working to populate a house. I just started saying yes/no to things that needed to go in my house. All of it necessary, and things I wouldn't have thought of. I think the ladies did quite well.
+
+Pack it all up- head home, and then to Karaoke. Somehow, I've received a reputation for being a singer of sorts. This is all due in part to my time in June where I visited the karaoke bar with the team. God forbid you sing "Don't Stop Believin'" in public - or else. Nonetheless, had a good time singing along with songs I had no idea what they were or who wrote them.
+
+Finally, home. Unpack all of my stuff and new linens, set it all up, take a shower, and sleep.
+
+<em>
+</em>

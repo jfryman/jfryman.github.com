@@ -1,0 +1,12 @@
+---
+layout: post
+title: !binary |-
+  RGF5IDQwOiBMaXZl
+wordpress_id: 343
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9MzQz
+date: 2010-11-08 21:57:19.000000000 -06:00
+---
+Live from the Philippines - we're going live today! Several months of work to come to this moment. 
+
+Unfortunately, too much to share and no time to do it - I have to actively manage the transition today. However, I'll post something as soon as I can.

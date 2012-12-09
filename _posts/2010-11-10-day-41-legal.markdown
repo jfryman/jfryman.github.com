@@ -1,0 +1,36 @@
+---
+layout: post
+title: !binary |-
+  RGF5IDQxOiBMZWdhbA==
+wordpress_id: 345
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9MzQ1
+date: 2010-11-10 00:30:04.000000000 -06:00
+---
+It's done. And by done I mean we've cut over. That by no means that we're done - there is still a lot of work yet to do. Nonetheless, the anxious part has been completed - the actual move. Some positive feedback, a lot of constructive feedback... but we have forward momentum. It is good that time continues to roll forward whether I want it to or not.
+
+<!--more-->We did a lot of last minute scrambling to get things done last night. And I mean <strong>a lot</strong>. I was almost nervous we wouldn't make it, but we rallied. We had last minute phone issues (some of which are still unresolved), we didn't have our monitoring systems going. Don't get me wrong - we had many of the major components, but the time hadn't been taken to coalesce these things into a functional Network Operations Center. This brings me to a cultural point that I sometimes love and sometimes loath.
+
+<em>Island Time</em>
+
+It's this concept where things will happen in due course. Don't worry about it today - things will take care of itself, etc. At some point, the work has to be done. My biggest challenge I believe will be to manage to this. Some things are good not to worry about - some things are. So instilling a sense of urgency and executing will be something that we have to work toward, and I have to learn how to understand and adapt to the local teams here.
+
+In other news, my foot has started hurting again. Did a first round of Physical Therapy today - Total cost PHP 600. 600! 1.5 hours of therapy on my foot. I'm sure the same work in the US would have cost $100 after insurance covered the other $1k. I don't care if this is a poorer country than others - I'm coming to believe that our insurance system is in the crapper. We need a fix - badly.
+
+Contract review today for my apartment. Wasn't that a treat. I stopped reading it about 1 page in where in the contract a provision read:
+<blockquote>No illicit or immoral behavior shall be tolerated in the leased premises.</blockquote>
+Seriously? Now, I'm from the oh so litigious nation of the United States of America, and the first thing that popped into my head was how this could be used against me. I mean, who defines the above? Is there a Philippine document that outlines illicit and/or immoral behaviors? Is there an appendix to the lease that outlines what is defined here? Nope on both counts... so I asked.
+
+What I got back was actually funny.
+<blockquote><strong>Me: </strong>I'm sorry, I don't understand this clause &lt;reads clause&gt;
+<span style="color: #000000;"><strong>Lessor: </strong>Well, it means a few things... namely... &lt;pause&gt; no pot smoking
+</span><strong>Me: </strong>Okay, fair enough. Anything else?
+<span style="color: #000000;"><strong>Lessor: </strong>You can't make ... &lt;pause&gt; ... movies in the apartment.
+</span><strong>Me: </strong>I can't make movies? What do you mean? What kind of mov... oooohhhhhhh. Um. Okay.</blockquote>
+We talked about this some more, but apparently I <strong>am</strong> allowed to bring prostitutes to my room, but I cannot make a porn while I'm smoking my joint. Not allowed.
+
+I'm going to strike to have this clause removed from my lease. Not because of the above conversation - but rather because its super vague and doesn't define the above. I'd be cool if the document said had the following terms.
+<blockquote>The lessee nor guests of the lessee shall at no time while in the residence at the premise partake of any substance containing <strong>Tetrahydrocannabinol, </strong>including but not limited to inhaled or eaten form. In addition, the lessee agrees to refrain from the creation, editing, producing, or managing any adult entertainment films of him/herself or any guest while in the residence at the aforementioned premise.</blockquote>
+That would be, without a doubt, the best legal document I ever signed.
+
+I would frame that.

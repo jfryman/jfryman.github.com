@@ -1,0 +1,28 @@
+---
+layout: post
+title: !binary |-
+  RGF5IDIzOiBTbGVlcA==
+wordpress_id: 227
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9MjI3
+date: 2010-10-20 14:17:44.000000000 -05:00
+---
+I have shifted my schedule again, and so I'm having to readjust all of my routine. I now am working the swing shift (spending about half of my working hours in Philippine time and the other half on US time). I now work from about 1-2PM until about 12AM Manila time. this has affected my daily posting for the short term, but I will figure it out.
+
+<!--more-->This has introduced several new variables into my day to day. First off, my day is divided into three distinct times. Sleep (7-8 hours). Free time (5-6 hours), and work (11-12 hours). The different part is that instead of splitting the free time and work time (free time in morning/work/free time in evening), the blocks are contiguous. I have essentially defragmented my life (I'm such a nerd).
+
+Given I am now leaving work at 12AM, I'm having to find new ways home. My traditional routes are all closed off, and so I'm having to search how to make it home safely. Not all taxi drivers in the Philippines are equal. I've tried to strike up interesting conversations with other taxi drivers, only to have them outright reject me. I just got lucky! Other taxi drivers, as I learned last night, like to pull a fast one.
+
+I got into a taxi cab last night and asked the driver to take me home. I was asked why I was going home, because it was early and there were many places he could take me. You know, the "good" areas. After politely declining, this driver let me know that he was a tour guide, and would be glad to show me the town. (I now know 'a guy'). When he dropped me off at the hotel, I noticed he "forgot" to run the meter.
+
+This is a common scam - drive the car off the clock, charge whatever, and pocket. No tax, no consistency, no problem!
+
+I asked what I owed him, and he said "Well, you know, whatever. Maybe 100?".
+
+The typical cost for the ride I took is PHP45 ($1). He's asking for double. Quick risk analysis. If this goes south, do I really want to start something over what is effectively another dollar? Pass. PHP100 it is!
+
+Other than that - just trying to adjust to the new schedule. Go-live is in 2.5 weeks, with practical exams scheduled the first week of Nov.
+
+I leave you with this interesting view I saw in a taxi.
+
+<a href="http://www.frymanet.com/wp-content/uploads/2010/10/IMG_0396.jpg"><img class="alignleft size-full wp-image-231" title="IMG_0396" src="http://www.frymanet.com/wp-content/uploads/2010/10/IMG_0396.jpg" alt="" width="359" height="480" /></a>

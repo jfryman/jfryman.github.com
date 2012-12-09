@@ -1,0 +1,34 @@
+---
+layout: post
+title: !binary |-
+  RGF5IDM0OiBQcmUtUGFpZA==
+wordpress_id: 309
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9MzA5
+date: 2010-11-01 21:50:02.000000000 -05:00
+---
+You'd think that after four straight days of not feeling well, sitting around my apartment and generally taking it easy, I would feel better. Nope - not true. I woke up early to catch a work meeting that was canceled not but 30 seconds before it was supposed to start. Not too thrilled about it, but what can you do.
+
+<!--more-->The rest of my day was fairly simple. I had an interview with another expat that I met during my<em> Introduction to the Philippines </em>class. She and her husband are moving to the Philippines for about two years in the next few weeks, and she's looking for employment. We had a chat today which went okay — not as well as I was hoping, but it's worth determining if there might be a position for her. This person reminds me of another co-worker that is moving to NYC in the next few days, and she's pretty good at what she does. I'm hoping that personality might translate pretty well.
+
+I'm amazed at how much of the economy here is pre-paid. I can walk into a store and see 'load' stations for any utility that I would typically utilize in the US. From an economic perspective, it makes absolute sense. I cannot commit to anything long term, and my revenue stream might not be as stable as in other places. Up springs a market. Pre-paid cell phones, pre-paid cable TV, pre-paid Internet, pre-paid water, pre-paid electricity, pre-paid EVERYTHING!
+
+I'm most amazed for some reason with the pre-paid cable. One thing that I constantly remember griping about in the US was the concept of <strong>À la carte. </strong>I really only watch a certain number of TV shows, so why can I not just pay for those channels? I have to pay for an entire cable package, and it turns out that the channels that I do want to watch are typically in the highest tiers, so I have to pay crazy amounts of money just to get the channels that I watch. I then do not watch most of the channels.
+
+However, here in the Philippines, a 'developing nation', and their cable plans include a package where you can choose the channels you want. It's doable! The technology exists with Digital TV - the same technology that brought everyone Pay-Per-View (PPV) can be used to deliver the same concept in the US. Switched Digital Video! Who would have thought of it?!
+
+I really like the concept of pre-paid. No contracts, no obligations, and I only use what I use instead of having to buy up a plan that I might only use a part of. The difficulty that I'm having right now is trying to measure how much I'm actually utilizing. I have no idea how much Internet I use on a given month! I can tell you that my usage has dropped dramatically when my bandwidth speeds are lower. It's a pain waiting for video to load on the web, or for a webpage to render. Granted, it's not dial-up, but the difference when I was on dial-up and now is that the web was also designed for dial-up users. Pages were light, low on images, and still felt relatively zippy. However, on a bad broadband connection, trying to do anything but basic email and browsing is a chore.
+
+Maybe that's a good thing...
+
+I can proudly say that I've figured out my Phone dilemma. Right now, my work is paying a considerable amount of money on my US cell phone to work while I'm in the Philippines. Calls to the US from the Philippines run about $2.89/min. Robbery! Solution - get a local phone. But I still need a way for people in the US (mostly work people - I don't get many personal calls) to get in touch with me.
+
+I have four phones that I could be at depending on the time of day - US based cell, Philippines based cell, Work Desk (VoIP), and Skype. How can I get it so that each phone rings with one number, I can still get centralized text/voice messaging?
+
+Google Voice to the rescue!
+
+It's simple, really. First off, get Google Voice. Secondly, connect the two primary US phones to Google Voice (Work/Cell). Get a Skype-in number (gives my Skype line a real phone number), and also connect to Google Voice. At this point, I now have three phones that are setup within GV. Finally, setup EC500 on my work phone to automatically dial my Philippine cell phone! Calls from the US to Philippines typically run about $0.09/minute. My cost is only load on my local pre-paid cellphone, which runs about PHP4/minute.
+
+Win! For those of you who know me and are facebook friends, my new phone number is listed in my profile. For those of you who work with me, my new phone number is in my signature, and will be updated in the GAL hopefully this week. Finally, anyone else who happens to want my number - shoot me an email. I'm not posting it here.
+
+Fin

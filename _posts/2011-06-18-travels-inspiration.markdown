@@ -1,0 +1,40 @@
+---
+layout: post
+title: !binary |-
+  VHJhdmVsJ3MgSW5zcGlyYXRpb24=
+wordpress_id: 466
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9NDY2
+date: 2011-06-18 12:18:06.000000000 -05:00
+---
+Travel often introduces situations that I often reflect on and wonder how on earth something happens. In this case, my story is slightly bizarre, if not worth writing down for stupidity's sake.
+
+I've been on the road now since Sunday, and I brought with me four days worth of clothes. The initial idea would be that I would come out to San Jose and then fly back to Nashville. However, I have  a scheduled trip to Portland next week as well. Made sense in my head not to fly back home over the weekend just to turn back around and fly to Oregon. As much as I like flying, it would be a burn of a weekend.
+
+I found myself today packing to go to Oregon, and trying to maximize my clean clothes. Having several pairs of dirty clothes, I decided it would be good to try and hand wash some of the clothes before I mixed it with the clean clothes I still have. Grab the hotel shampoo, turn up the heat in the sink, and start away! Wring out, hang up to dry.
+
+Things are going really well until I realize that there is no way my clothes are going to be remotely dry via the air overnight. I might have clean clothes, but now they're at risk of dampening my other clean clothes. As such, one problem has been solved, but another introduced. What to do.
+
+Then, out of what seemed like brilliance at the time, I had a lightbulb. You know, one of these...
+
+<iframe width="425" height="349" src="http://www.youtube.com/embed/p2_lJ2bGltE" frameborder="0" allowfullscreen></iframe>
+
+What if I put my clothes in the microwave? Would that work? Oh, what the hell... Take first article of clothing. A nice pair of undershorts. Let's start very slowly. 3 minutes. Let it run. Take it out, and it's hot! Who would have thought it! But, it's nowhere near dry. How about another 2 minutes. Hot and steaming now, but not dry. Okay, 4 more minutes.
+
+Bingo! That did it. Dry enough I could air dry over night and let it sit until the morning. Second pair of underpants - 8 minutes in a single run successful! Now, I'm cooking (somewhat literally). How about socks? How long does it take to cook socks? Also, how often do you find yourself asking that question? These are much thicker and might require more time. Try 10 minutes. Voilà! Cooked socks! This is working much better than I could have even begun to imagine.
+
+Now, undershirts. I'm starting to get a little brazen at this point, and throw caution into the wind. 10 minutes. Went back to watching my movie, and hear the ding from the device. No issues - dry, but not quite there. Well, how about 5 more minutes.
+
+Gross miscalculation! Went back to my movie confident in the microwave's ability to cook my clothes only to come back to a ball of fire in the microwave. ZOMG! Take it out- smoke billowing out, and my undershirt is smoldering. Right into the sink, and with the water. The result is somewhat comical.
+
+<a href="http://www.frymanet.com/wp-content/uploads/2011/06/photo.jpg"><img class="size-medium wp-image-471 alignleft" title="photo" src="http://www.frymanet.com/wp-content/uploads/2011/06/photo-156x300.jpg" alt="" width="156" height="300" /></a>
+
+What do you do with that? I think it's unwearable at this point, so I had to ditch it. Time to give up, right? Absolutely not! 75% success rate still seems viable. Try another undershirt, but this time watch the time. Unfortunately, enough of the charred shirt from the last run baked itself onto the microwave glass that transferred to the shirt. Perfect temperature, ruined however. This has a pleasant side effect of also cleaning the glass, so I'm sure the hotel will be pleased.
+
+This whole experience made me have a few thoughts:
+<ul>
+	<li>Lightbulb ideas are not always the best ideas.</li>
+	<li>75% is not a bad success rate, all things considered.</li>
+	<li>What other crazy things do people do in hotel rooms?</li>
+</ul>
+It's the latter thought that has left my mind a bit boggled now. Something I'm trying hard to ignore and forget. I'll rest assured that my clothes are clean now.

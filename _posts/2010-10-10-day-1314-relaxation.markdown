@@ -1,0 +1,79 @@
+---
+layout: post
+title: !binary |-
+  RGF5IDEzLzE0OiBSZWxheGF0aW9u
+wordpress_id: 158
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9MTU4
+date: 2010-10-10 22:20:21.000000000 -05:00
+---
+First, while I do not recommend Fish Eyeball, I do recommend a food that I ate - Pan de Sal (salty bread). This is a delicious local bread made that is supposed to be salty, but I found to be slightly sweet. Light/fluffy/airy/sweet. A little Philippine twist accompanies this, however - sardines.
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/25ATLTWYA6k?hl=en&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/25ATLTWYA6k?hl=en&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<!--more-->A list of artifacts that I've collected this weekend:
+<ul>
+	<li>1 new hat</li>
+	<li>1 sunburn</li>
+	<li>1 Shirt - <em>got balot?</em></li>
+	<li>1 CD w/ Rosetta Stone</li>
+	<li>-45 PHP in coins/+24 PHP in coins</li>
+</ul>
+Saturday started out as most Saturday mornings go. Alarm goes off at 6AM, go back to sleep because it's 6AM on a Saturday, hit alarm, wake up startled 25 minutes later realizing that you have to be somewhere at 7AM to catch a ride to the beach, rush to pack stuff because you didn't pack it the night before, eat exotic fruits for breakfast, walk over to a hotel, hitch a ride with a driver, and start off to the beach. What? You're Saturday isn't like this at all? Bummer. (the fruits are really good, by the way)
+
+Our driver, who's name is John, started us out on the trek from Manila to San Jose, Batangas [city, province]. Nice enough guy, quiet. I have no clue what 'driver' edict is, and since I'm American and we American's have a tendency to break the rules - why would I stop here? Entered into a nice conversation with John to learn that he has 4 children, has recently moved back to the Philippines from Dubai, and he's glad to be taking us. The last part still surprises me - everyone around me who is providing me a service is always really glad to be doing what they are doing for me. So much so that it feels over-the-top, and unrealistic.
+
+This is when the guilt starts kicking in - I've been able to articulate it a little more in the last few days. Namely - I enjoy being self-sufficient - being able to take care of myself (more or less), feed myself, drive myself, etc. I know that none of this is entirely possible in today's economy, as I'm not growing my own food, tending my own garden, assembling my own cars, etc. The reason we have economy is to distribute those tasks. However, with each of these professions there is a tangible exchange of goods for an exchange of currency which is used to exchange for additional goods. Okay - I'm trading! But when it comes to currency for service (like driving, washing clothes), I still have a tough time with it. It's completely irrational for me to think this way, however. I gladly accept waiter and cooking service in restaurants in the US - why is this any different and why can I not be okay with it? More soul searching to go there. I absolved myself of some of this pain and shared lunch with our driver. Probably broke a rule there, but I don't care. Seemed like a nice guy.
+
+Heading down south to Batangas was supposed to take about 2.5 hours. This was about right. Most of the ride was spent in traffic, as we traveled through two major towns - Lipa City and Batangas City. (See below)
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Philippines+(Glorietta)&amp;daddr=San+Juan,+Batangas,+Philippines&amp;hl=en&amp;geocode=FZwI3gAdLrM2ByGUVCFNJelOJg%3B&amp;mra=ls&amp;sll=13.934067,121.15448&amp;sspn=0.79439,1.053314&amp;ie=UTF8&amp;t=h&amp;ll=14.129547,121.276091&amp;spn=0.849593,0.508034&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Philippines+(Glorietta)&amp;daddr=San+Juan,+Batangas,+Philippines&amp;hl=en&amp;geocode=FZwI3gAdLrM2ByGUVCFNJelOJg%3B&amp;mra=ls&amp;sll=13.934067,121.15448&amp;sspn=0.79439,1.053314&amp;ie=UTF8&amp;t=h&amp;ll=14.129547,121.276091&amp;spn=0.849593,0.508034" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+I should have gotten more pictures, but I didn't. I was just soaking everything in. Key point to mention: Lots of little tricycles (a la: motorcycles with a small cage attached). This easily blocked traffic throughout each town.
+
+We pushed on, further south until we got close to San Jose. The last 20km took us into pretty isolated territory with what looked like slum conditions. It got pretty depressing, and somehow I kept wondering how a resort could be where we are. My questions were answered when we took our final right down a winding dirt road, watching small children tend a field, herd cattle, and play in the dirt. Fun times. We came up across a large gate, honked our horn, and drove in. The contrast was literally night and day. 30 feet from each other behind a locked area was a paradise. Not a large paradise, but what could be described as heaven to the people on the outside of the gate. Again, shocking and hard to describe/absorb. Total travel time: 3.5 hours.
+
+What I am finding more and more is that everything in the Philippines is a negotiation. We arrived at the resort and they had no clue who we were. A few minutes of scrambling and asking us questions which I had no answers for. What the interesting part in this puzzle is that I did not setup the trip down to Batangas. This was arranged by a colleague, who told me everything would be okay. Typically, this is the case, and so I just went with it. (Remember: I'm trying to live locally, and that means going with the flow). Not a major hiccup, but I had to dial up my work colleague who had some words with the manager and viola! We're in. I need to learn how to negotiate. I grabbed a beach hat as a souvenir and to protect my sensitive head from the sun.
+
+Instead of attempting to describe the resort, let me just show you.
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/N4-IO5hiRpc?fs=1&amp;hl=en_US" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="640" height="385" src="http://www.youtube.com/v/N4-IO5hiRpc?fs=1&amp;hl=en_US" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<a href="http://www.frymanet.com/wp-content/uploads/2010/10/aquatico.png"><img class="alignleft size-medium wp-image-166" title="aquatico" src="http://www.frymanet.com/wp-content/uploads/2010/10/aquatico-146x300.png" alt="" width="146" height="300" /></a>This place wasn't very expansive at all. In fact, I was surprised by the sheer lack of area that this resort had. Not a negative, just very interested. If the video didn't provide any depth - maybe this picture will.
+
+I forgot how much I absolutely missed the ocean. The smell of the ocean (not nasty Gulf bay - sorry honey) is something that I adore. It provides a sort of comfort to me - driven really by the fact that the salt helps me breath. Nashville has been horrible for my sinus system. Even with all the smog in the Philippines - I can safely say I can breath much easier here than in Nashville.
+
+I also forgot how much I am absolutely deathly afraid of the water. Terrified. This is a hard dichotomy to swallow when you take into account that all but the last four years of my life have been near a large body of water. I hate pools, I hate the ocean. Hell, I even hate baths! Hot tubs somehow do not strike in the same level of fear, for which I'm not sure why. The subtext here is that when I was younger, I had an incident where I recall being in a pool, just chillin', and bouncing around. Somehow, I got pulled into the deep end of the pool where I began to sink like a rock. I recall simply thrashing for dear life, trying to get above the water. For what felt like minutes I was trying to breath. My dad then came out of nowhere and with his superhuman strength and pulled me out with one hand. Combine this with the fact that you can't swim without glasses, and without glasses I am as blind as a bat (quite literally), I have an anxiety that only water to this point has been able to replicate.
+
+I learned this as I jumped into the beautiful ocean, waded around, enjoyed the salt, dove underwater to attempt to face my fears, and then promptly ran out as I began to hyperventilate.
+
+Still, it was nice to be by the ocean.
+
+My coworker who is out here was trying to help me relax. He commented that I had the type of personality that I always had to be doing something. As such, he did what any self-respecting person would do - he sat me down and just had me sit. To ease my need to continually move, I ordered myself a Jack and Coke. And then, heaven.
+
+I learned that I can easily sit down on the beach and do absolutely nothing all day. I just need Jack and Coke. Nurse that, enjoy the sounds of the beach, soak in the sun, and have good conversation with people around me. I have to admit, I really enjoyed the time I spent here doing literally nothing. I can't recall the last time I did just that.
+
+<a href="http://www.frymanet.com/wp-content/uploads/2010/10/i_heart_m.jpg"><img class="alignright size-thumbnail wp-image-164" title="i_heart_m" src="http://www.frymanet.com/wp-content/uploads/2010/10/i_heart_m-150x150.jpg" alt="" width="150" height="150" /></a>In all of this, however, I couldn't stop thinking about my wife. I was really enjoying my time there, but it would have been even better if she would have been here to enjoy it with me. I look forward to being able to show her all of the interesting things out here in December. In the meantime, I went all pre-teen and made her a nice drawing in the sand.
+
+During our time on the beach, we were approached by several street vendors trying to sell us some sort of trinket/item. These folks weren't officially allowed on the resort property, so they hung out on the line.
+
+At about 5PM, we ended our day at Acuatico and started the trek back home. On the ride home, I noticed that my knee was a little sore, and that I got a bit of sunburn. Meh. Looks like I did really well. Again, even longer trip back home in the dark. Both towns were hopping centers of commerce around the 7PM hour, and it took 4 hours to get back to the hotel. What I found when I got back to my hotel and took a shower was that just about my entire body was sunburnt. Yes, I used sunscreen. Yes, I reapplied. Yes, I am as pale as a marshmallow. No amount of sunscreen was going to save me. Hopefully, I'll have a good base coat. The best that I'll get while out here are more freckles, as I do not tan very well.
+
+As it was late, I didn't post, and I just went right to bed. Sun wore me out, and I crashed hard.
+
+Today was significantly less interesting than yesterday. A few things of note: Saw <em>The Town</em> at the theater today. I really enjoy theaters here for a few reasons. Assigned seating is fantastic - at purchase you get to choose your seat, and it is there when you get there. Bringing your own food into the theater is encouraged, but there is an assortment of really cool snack places right outside the theaters. The anti-piracy messages at the beginning of the movie are fantastically scary - suffice it to say if you even bring out your iPhone or other recording device during a movie, the ninja police that are watching you with night vision goggles will rappel down from the ceiling, assassinate you, and then climb back up watching for their next victim. Best of all (besides ninja police), the movies are cheap. I paid 180 PHP (around $4) for the movie. HOT DOG!
+
+Coming out of the movie, I ran into my coworker, so we got one of my favorite places to eat for Lunch - <strong>Bubba Gump Shrimp</strong>. I realize this is not a local place, but they offer 3 beers for 150 PHP (little more than $1/beer). The beer is good, too. Shrimp platters that would easily cost $40 cost around $11. It's a great deal.
+
+After lunch, we headed out to a place in the town called <em>Green Hills</em>. In Nashville, Green Hills is a very upscale, trendy, yuppie part of town. It's where the Apple store is, so I can't outright avoid it. In the Phillipines, Green Hills is the exact opposite of that. Inside this shopping center exists a bazaar of sorts - goods of varying quality sold at prices that can be negotiated. Anything you can imagine is sold here - watches, purses, clothing, electronics, movies, whatever! It's all negotiable as well. Furthermore, there are several qualities of each of these items here. These are known as such:
+<ul>
+	<li>AAA - Replica, can tell</li>
+	<li>4A - Replica, can't tell</li>
+</ul>
+I can get a Rolex watch here that you couldn't tell with the naked eye for about $200. You can get Louie Vuitton purses here that I've seen people in Nashville have for 1/10th of the price. It's incredible. On top of that, I'm the tall, white, sunburnt Americna with cash to spare, and everyone is soliciting me at each corner. I ended up purchasing a shirt with the saying <em>got balot?</em> on it. I will proudly wear this shirt the day after I complete my balot challenge which I will do sometime in the near future. I also found a retailer who sold computer programs, and was able to pick up a copy of Rosetta Stone. If I can get it working, I might actually be able to learn <em>Tagalog</em>.
+
+I can't seem to get rid of change, however! I hate coins! HATE HATE HATE! I took the opportunity at Green Hills to leverage my buying power with the small pieces of metal. I just about got rid of all of my coin, and somehow I accumulated more. At some point, I'm going to just surrender and get a coin jar.
+
+Short ride home, and a long blog post later, we now arrive at ... well, now. I'm going to pack it up for today, maybe read some of my book, and get some sleep as our company training for the new team starts first thing tomorrow. Certainly nervous about the training - it's going to be an experiment that I hope will turn out positively.
+
+I leave you with more ocean.
+
+<a href="http://www.frymanet.com/wp-content/uploads/2010/10/batangas_ocean.jpg"><img class="alignleft size-medium wp-image-163" title="batangas_ocean" src="http://www.frymanet.com/wp-content/uploads/2010/10/batangas_ocean-300x224.jpg" alt="" width="300" height="224" /></a>

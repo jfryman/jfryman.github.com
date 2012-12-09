@@ -1,0 +1,21 @@
+---
+layout: post
+title: !binary |-
+  RXhwYXQ6IERheSAxIC0gQWRqdXN0bWVudA==
+wordpress_id: 11
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9MTE=
+date: 2010-09-28 00:00:42.000000000 -05:00
+---
+I've been contemplating in my mind the many adjustments that I need to make to my life in order to be successful here in the Philippines. Interestingly enough, none of these changes are work related, but instead related to my own personal well-being.
+
+<!--more-->
+<ol>
+	<li>Posture. A work colleague of mine pointed me to the <a href="http://knowledgeworkerssurvivalguide.com/">Knowledge Workers Survival Guide</a> (not a plug). In this book, Patrick Reynolds mentions that a myriad of problems in the body are related to sitting all day. I guess at some level I knew this, as people around me (wife, mother, father-in-law, chiropractor, etc) have been telling me this for years. However, I'm the kind of guy who doesn't care why, but cares about how to fix the problem. Well, interestingly enough this book provides such a guideline. I'm going to be giving this methodology a shot over the next several weeks to see if I can yield improvement personally.</li>
+	<li>Weight. This has been something that I have been lamenting about at some level for quite some time now. I'm certainly not overweight, but I could stand to loose a few pounds. This might be much easier due to the next point....</li>
+	<li>Domestic Activities. Another collegue from India was visiting work, and last week we were discussing his time in Nashville. He replied that he hadn't done much because he was busy with 'Domestic Activities'. I've never heard this explained in such a way, and I found this humorous (probably the word choice).  I'll be honest — really don't do much of the shopping/laundry in my household today. My wife dutifully does laundry and picks up food each week with her trusty recipe book and guidance from me on a weekly basis on what seems good to eat. I don't often think about how much time goes into this activity, and I'm sure I'll need to make an adjustment.</li>
+	<li>Coins. I hate cash, and I hate coins even more. However, the Philippines (just like most of the world with the exception of the US) is a cash based culture, so unless I want to simply lose several hundred <a href="http://en.wikipedia.org/wiki/Philippine_peso">PHP</a>, then I'd better get with the program and get over myself.</li>
+</ol>
+Funny story about point #3, as a matter of fact. Today, I got off work and was falling asleep around 6PM. I had to keep myself busy until at least 8:30, as I have two scheduled meetings at 8:30 PM and 9:00 PM MST. Since I'll be in Manila for an extended period of time, I decided this would be a great time to go grocery shopping.
+
+Now, I'd like to think that I can survive on my own in this world, and I am perfectly capable of shopping for groceries on my own. In reality, I'd struggle. I know it. The funny part is that while I fall in the <em>cooking challenged</em> category, the local cuisine that is sold in grocery stores is exponentially more foreign than a US grocery. By this I mean - in a grocery store in the US, I could figure out how to feed myself by virtue of the foods I've eaten over the years. I could get some junk food, I could get some frozen food, and heck, I could grill me some meat. I walked into this grocery store and saw plenty of neat foods, but they were things I'd never heard of, let alone know how to prepare. Today in that grocery store I certainly felt and played the part of foreigner. This feeling was so exasperating to me that after 50 minutes of aimlessly wandering around the grocery store, I gave up, put the two articles of food I had picked up (bread and a can of spicy spam), and left. I'll have to come up with a better game-plan going forward, but I certainly lost that round to the Philippines.

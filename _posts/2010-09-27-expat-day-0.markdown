@@ -1,0 +1,27 @@
+---
+layout: post
+title: !binary |-
+  RXhwYXQ6IERheSAw
+wordpress_id: 7
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9Nw==
+date: 2010-09-27 15:46:49.000000000 -05:00
+---
+Today is the first day of living abroad for six months. A few general comments: tired, overwhelmed, tired.
+
+On the flight over, I believe that I actually stunk profusely after the 32 hour travel from Nashville, TN to Manila, Philippines. On the last leg of the flight (Hong Kong to Manila), the gentlemen next to me excused himself to go and sit somewhere else. Was it because I stank - probably not... however it'll make a good story. I can tell you that I should have thought ahead and packed travel deodorant, a change of undergarments, maybe worn shorts instead of pants... etc. Lesson learned for next time.
+
+<!--more-->
+
+I arrived in Manila this morning around 12am Manila Standard Time (hereby known as MST). Standard exit from the airport - wait in line at customs, hand my passport to the officer, smile large, frowned at, and stamped into the country. I believe that one of a few things is at play there.
+<ol>
+	<li>The US has done such a good job at spreading democracy that even the template for the disgruntled government worker was replicated perfectly</li>
+	<li>All government workers worldwide are equally depressed.</li>
+</ol>
+I believe the latter to be true, as I have had similar experiences in Japan. However, I digress... Picked up bags from the carousel (bonus points for Cathay Pacific - my bags did not take three years to emerge like Delta), an started looking for an exit strategy.
+
+The hotel I am staying at included a driver to the hotel from the airport, but after an hour of looking, the driver was nowhere to be found. Next step: call the hotel. Unfortunately, my iPhone did not think that connecting a call would be on its list of things to do that evening. I tried calling the hotel - no dice. Call failed. Maybe the problem was with the international dialing. Tried calling my wife - maybe she could call the hotel and have them pick me up. iPhone continues to barf. Fantastic. Plan B: Take a taxi. Make my way to the money exchanger to change my USD into PHP and ... oh wait... the money exchange closes after 11PM. Crap.
+
+Eventually I figure out it's a problem with the carrier selected on the iPhone (most carriers worldwide everywhere except the US use GSM exclusively and not CDMA), and so I had to choose another carrier to roam from. Thumbs down for SMART (ePLDT), and thumbs up for Globe. I called the hotel, they sent a driver, and then I arrived at my place. Unpacked, called my wife, and then crashed softly around 2:30AM. I would have gone to sleep earlier, but I was amped and needed to burn some energy. So I unpacked.
+
+I can already tell it's going to be a fun trip.

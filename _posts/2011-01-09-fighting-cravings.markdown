@@ -1,0 +1,28 @@
+---
+layout: post
+title: !binary |-
+  RmlnaHRpbmcgQ3JhdmluZ3M=
+wordpress_id: 411
+wordpress_url: !binary |-
+  aHR0cDovL3d3dy5mcnltYW5ldC5jb20vP3A9NDEx
+date: 2011-01-09 17:26:46.000000000 -06:00
+---
+Every so often, I am amazed at how much I get cravings for food that is hard to find here. Pickles have been high on my list - one of those really large, crisp, spicy pickles You know, the kind that you get at the state fair. Not soggy, full of juice, kosher, etc. Just a really great pickle. What is available here is a descent pickle - but for whatever reason it's just not hitting the spot. Slightly different taste or texture or whatnot. The craving still exists.
+
+I've had the same exact craving for nachos. This craving just hasn't gone away. I can easily say that some of the best nachos that I've had to date are those found at the Cool Springs Brewery in Franklin, TN. Good nacho chips, black beans, cheese, meat, refried beans, olives, salsa, and jalapeños. Fantastic nachos.
+
+My quest for these nachos has ended in some horrible ways. While in Boracay, we often stopped at almost every store looking to see if they sold nachos. We found two stores that sold nachos - one of which had it on the menu, but they were always out whenever we stopped by. The second place brought us out chips, some melted cheese whiz, and a spattering of ground beef. Given this was the only set of nachos we could get on our tiny little island, we went with it. Needless to say, not fantastic nachos.
+
+The other night, I was browsing some of the delivery options available to me here, and happened to stumble across "Deluxe Nachos". Contained: chips, olives, jalapeños, cheese, and salsa. Sounds like it could be a winner! Delivery made!
+
+Knock on the door, payment, and I have my nachos. Somehow, I half expected to open a fully dolled up set of nachos, just like it would have been delivered to me at a table. Instead, I found a box of chips. No toppings. Slight pause, but in the box also contained several smaller containers. Cool! Build my own nachos! Open it up to find:
+<ul>
+	<li>A small bin of chopped 8 chopped olives slices</li>
+	<li>A medium sized container of nacho cheese</li>
+	<li>A medium sized container of salsa</li>
+	<li>A large sized container of pico de gallo</li>
+	<li>and a small sized container of jalapeños - 3 in total.</li>
+</ul>
+All of this combined with a pool of large chips. My beef was missing (replaced with pico), and the good toppings (olives/jalapeños) only had a small amount. How can you eat nachos with only three jalapeños!? Slightly comical seeing the toppings put together, only encompassing a total of 10 chips out of about 75.
+
+I guess I'll have to wait until I get home to meet my cravings.
